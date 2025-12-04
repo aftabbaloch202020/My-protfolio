@@ -121,7 +121,7 @@ background: linear-gradient(#fff, #3877ff);
 }
 .circle:nth-child(2){
     width: 26rem;
-    background-image: url(img/aftabbaloch.jpg);
+    background-image: url(/aftabbaloch.jpg);
     background-size: 100%;
    border: 1rem solid #3877ff;
     box-shadow: 
@@ -139,4 +139,5 @@ background: linear-gradient(#fff, #3877ff);
     transform-origin: bottom left;
     margin-top: 20px;
     color: #ff9d00;
+
 }
