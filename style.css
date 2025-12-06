@@ -40,6 +40,7 @@
 }
 .right-container{
 background: linear-gradient(-45deg, #3877ff, #262525 70%);
+    background-image:url(aftabbaloch.jpg)
 width: 30%;
 }
 .icons{
@@ -141,4 +142,5 @@ background: linear-gradient(#fff, #3877ff);
     color: #ff9d00;
 
 }
+
 
